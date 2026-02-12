@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// Conversao de Temperatura
+
+Console.Write("Graus Celsius: ");
+double c = double.Parse(Console.ReadLine());
+double f = (c * 9 / 5) + 32;
+Console.WriteLine($"Fahrenheit: {f}");

@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// Area do Retangulo
+
+Console.Write("Base: ");
+double bse = double.Parse(Console.ReadLine());
+Console.Write("Altura: ");
+double alt = double.Parse(Console.ReadLine());
+Console.WriteLine($"Área: {bse * alt}");
+Console.WriteLine($"Perímetro: {2 * (bse + alt)}");

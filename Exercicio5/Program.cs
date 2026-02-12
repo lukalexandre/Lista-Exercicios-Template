@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// Conversão de metros para centimetros 
+
+Console.Write("Valor em metros: ");
+double metros = double.Parse(Console.ReadLine());
+Console.WriteLine($"Resultado: {metros * 100} cm");

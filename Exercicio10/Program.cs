@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+// Salario mensal
+
+Console.Write("Valor por hora: ");
+decimal valorHora = decimal.Parse(Console.ReadLine());
+Console.Write("Horas trabalhadas: ");
+decimal horasMes = decimal.Parse(Console.ReadLine());
+Console.WriteLine($"Salário final: R$ {valorHora * horasMes}");

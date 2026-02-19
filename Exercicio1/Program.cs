@@ -1,4 +1,5 @@
 Console.Write("DOBRO DE UM NÚMERO: \n\n");
+
 Console.Write("Digite um número inteiro: ");
 int numero = int.Parse(Console.ReadLine());
 Console.WriteLine($"O número digitado foi: {numero}");

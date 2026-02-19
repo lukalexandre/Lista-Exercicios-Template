@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj": {}
+    "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj": {
+    "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
         "projectName": "Exercicio11",
-        "projectPath": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
+        "projectPath": "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
         "packagesPath": "C:\\Users\\Lucas Alexandre\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-// Media de 2 provas
+Console.Write("MÉDIA DE DUAS PROVAS: \n\n");
 
 Console.Write("Nota 1: ");
 double nt1 = double.Parse(Console.ReadLine());

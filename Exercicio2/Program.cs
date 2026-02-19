@@ -1,5 +1,4 @@
-// Antecessor e sucessor
-
+Console.Write("ANTECESSOR E SUCESSOR: \n\n");
 Console.Write("Digite um número: ");
 int num = int.Parse(Console.ReadLine());
 Console.WriteLine($"Antecessor: {num - 1}");

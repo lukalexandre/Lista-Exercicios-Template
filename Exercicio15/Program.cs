@@ -1,4 +1,4 @@
-// Desafio - Simulador de compra
+Console.Write("SIMULADOR DE COMPRA: \n\n");
 
 try 
 {

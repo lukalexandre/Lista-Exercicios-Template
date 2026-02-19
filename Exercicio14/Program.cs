@@ -1,4 +1,4 @@
-// Minicalculadora com metodo
+Console.Write("MINICALCULADORA COM MÉTODO: \n\n");
 
 Console.Write("Valor A: ");
 int valA = int.Parse(Console.ReadLine());

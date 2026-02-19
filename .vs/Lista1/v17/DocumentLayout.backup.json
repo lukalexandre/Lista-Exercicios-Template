@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8B4FDE-3B34-4709-8842-423E12FC02B1}|Exercicio10\\Exercicio10.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio10\\exercicio10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA8B4FDE-3B34-4709-8842-423E12FC02B1}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\exercicio10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B99DD79-E7D9-4053-8CE8-D4B50939597C}|Exercicio8\\Exercicio8.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio8\\exercicio8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B99DD79-E7D9-4053-8CE8-D4B50939597C}|Exercicio8\\Exercicio8.csproj|solutionrelative:exercicio8\\exercicio8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212871B8-88B8-42E6-BBF7-4CF5F7B53035}|Exercicio9\\Exercicio9.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio9\\exercicio9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212871B8-88B8-42E6-BBF7-4CF5F7B53035}|Exercicio9\\Exercicio9.csproj|solutionrelative:exercicio9\\exercicio9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FE331F-57F8-4EBC-8F25-0494D323E5B6}|Exercicio6\\Exercicio6.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio6\\exercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7FE331F-57F8-4EBC-8F25-0494D323E5B6}|Exercicio6\\Exercicio6.csproj|solutionrelative:exercicio6\\exercicio6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632E4183-BFB3-4601-A966-017AD8580B50}|Exercicio5\\Exercicio5.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio5\\exercicio5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{632E4183-BFB3-4601-A966-017AD8580B50}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\exercicio5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB26BE01-0D4C-4D1F-8214-7695D4CB7929}|Exercicio4\\Exercicio4.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio4\\exercicio4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB26BE01-0D4C-4D1F-8214-7695D4CB7929}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\exercicio4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B59D7A-367B-4332-9963-3F95D6F0DAEF}|Exercicio3\\Exercicio3.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio3\\exercicio3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6B59D7A-367B-4332-9963-3F95D6F0DAEF}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\exercicio3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C33024E-A07B-4BD7-86B9-ED4CB7A86EE3}|Exercicio15\\Exercicio15.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio15\\exercicio15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C33024E-A07B-4BD7-86B9-ED4CB7A86EE3}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\exercicio15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A26D32F-27C8-432D-B23B-C4B3D3D6FBBA}|Exercicio14\\Exercicio14.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio14\\exercicio14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A26D32F-27C8-432D-B23B-C4B3D3D6FBBA}|Exercicio14\\Exercicio14.csproj|solutionrelative:exercicio14\\exercicio14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA5902-A808-4653-9303-D625BBA6F791}|Exercicio13\\Exercicio13.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio13\\exercicio13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BEA5902-A808-4653-9303-D625BBA6F791}|Exercicio13\\Exercicio13.csproj|solutionrelative:exercicio13\\exercicio13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC36ED23-F815-46B3-BF4A-D7A2C4DDA311}|Exercicio12\\Exercicio12.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio12\\exercicio12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC36ED23-F815-46B3-BF4A-D7A2C4DDA311}|Exercicio12\\Exercicio12.csproj|solutionrelative:exercicio12\\exercicio12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BC4FBC-1AB2-4EAE-85F8-4424C289CEE0}|Exercicio11\\Exercicio11.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio11\\exercicio11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15BC4FBC-1AB2-4EAE-85F8-4424C289CEE0}|Exercicio11\\Exercicio11.csproj|solutionrelative:exercicio11\\exercicio11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB88B1F-4242-4BC5-9EBF-74A30E9A209E}|Exercicio7\\Exercicio7.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio7\\exercicio7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCB88B1F-4242-4BC5-9EBF-74A30E9A209E}|Exercicio7\\Exercicio7.csproj|solutionrelative:exercicio7\\exercicio7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8B4FDE-3B34-4709-8842-423E12FC02B1}|Exercicio10\\Exercicio10.csproj|c:\\users\\lucas alexandre\\source\\repos\\lista-exercicios-template\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8B4FDE-3B34-4709-8842-423E12FC02B1}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercicio15",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio15\\Exercicio15.csproj",
+              "RelativeDocumentMoniker": "Exercicio15\\Exercicio15.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio15\\Exercicio15.csproj",
+              "RelativeToolTip": "Exercicio15\\Exercicio15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:25.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio3",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio3\\Exercicio3.csproj",
+              "RelativeDocumentMoniker": "Exercicio3\\Exercicio3.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio3\\Exercicio3.csproj",
+              "RelativeToolTip": "Exercicio3\\Exercicio3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio4",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio4\\Exercicio4.csproj",
+              "RelativeDocumentMoniker": "Exercicio4\\Exercicio4.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio4\\Exercicio4.csproj",
+              "RelativeToolTip": "Exercicio4\\Exercicio4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:47.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio5",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio5\\Exercicio5.csproj",
+              "RelativeDocumentMoniker": "Exercicio5\\Exercicio5.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio5\\Exercicio5.csproj",
+              "RelativeToolTip": "Exercicio5\\Exercicio5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio6",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio6\\Exercicio6.csproj",
+              "RelativeDocumentMoniker": "Exercicio6\\Exercicio6.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio6\\Exercicio6.csproj",
+              "RelativeToolTip": "Exercicio6\\Exercicio6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio8",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio8\\Exercicio8.csproj",
+              "RelativeDocumentMoniker": "Exercicio8\\Exercicio8.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio8\\Exercicio8.csproj",
+              "RelativeToolTip": "Exercicio8\\Exercicio8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:10:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio9",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio9\\Exercicio9.csproj",
+              "RelativeDocumentMoniker": "Exercicio9\\Exercicio9.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio9\\Exercicio9.csproj",
+              "RelativeToolTip": "Exercicio9\\Exercicio9.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:10:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicio10",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio10\\Exercicio10.csproj",
+              "RelativeDocumentMoniker": "Exercicio10\\Exercicio10.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio10\\Exercicio10.csproj",
+              "RelativeToolTip": "Exercicio10\\Exercicio10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:03:20.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exercicio14",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio14\\Exercicio14.csproj",
+              "RelativeDocumentMoniker": "Exercicio14\\Exercicio14.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio14\\Exercicio14.csproj",
+              "RelativeToolTip": "Exercicio14\\Exercicio14.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exercicio13",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio13\\Exercicio13.csproj",
+              "RelativeDocumentMoniker": "Exercicio13\\Exercicio13.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio13\\Exercicio13.csproj",
+              "RelativeToolTip": "Exercicio13\\Exercicio13.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exercicio12",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio12\\Exercicio12.csproj",
+              "RelativeDocumentMoniker": "Exercicio12\\Exercicio12.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio12\\Exercicio12.csproj",
+              "RelativeToolTip": "Exercicio12\\Exercicio12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:09:01.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exercicio11",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
+              "RelativeDocumentMoniker": "Exercicio11\\Exercicio11.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio11\\Exercicio11.csproj",
+              "RelativeToolTip": "Exercicio11\\Exercicio11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:06:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exercicio7",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio7\\Exercicio7.csproj",
+              "RelativeDocumentMoniker": "Exercicio7\\Exercicio7.csproj",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\Source\\Repos\\Lista-Exercicios-Template\\Exercicio7\\Exercicio7.csproj",
+              "RelativeToolTip": "Exercicio7\\Exercicio7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T20:10:03.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas Alexandre\\source\\repos\\Lista-Exercicios-Template\\Exercicio10\\Program.cs",
+              "RelativeToolTip": "Exercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T20:06:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
